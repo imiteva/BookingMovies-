@@ -1,0 +1,27 @@
+
+<form class="navbar-form navbar-right" role="search">
+    <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search Movies" data-ng-model="search">
+    </div>
+    <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+<br>
+<h2 style="text-align:right; font-family:verdana; font-size:400%; "><em><b>Book a Movie Ticket</b></em></h2>
+<img src="http://uktvinspain.info/wp-content/uploads/2013/10/movies_banner.jpg" alt="Movie" style="width:1140px;height:228px">
+<div class="">
+    <div class="row movies-list">
+        <div class="col-md-4" data-ng-repeat="movie in movies | orderBy:'name':true | filter:search">
+            <h2>{{movie.name }}</h2>
+            <p>
+                <img data-ng-src="{{movie.thumb}}" class="thumb-big">
+            </p>
+			
+            <p>{{movie.review | limitTo:99}}...</p>
+            <p>
+                <span class="label label-warning availability">Availability ({{movie.availability}})</span>
+                <a ng-href="#/movie/{{movie.id}} " class="btn btn-primary ">Review</a>
+                <a data-ng-href="#/bookTickets/{{movie.id}}" class="btn btn-success " role="button" data-ng-disabled="movie.availability == 0">Book »</a>
+            </p>
+        </div>
+    </div>
+</div>

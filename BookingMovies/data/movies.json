@@ -1,0 +1,111 @@
+[
+    {
+       "id": 0,
+        "name": "Taken 3",
+        "rating": 5,
+        "availability": 9,
+        "review": "Ex-government operative Bryan Mills is accused of a ruthless murder he never committed or witnessed. As he is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name.",
+		"ReleaseDate": "Release date: January 9, 2015 (USA)",
+		"Director": "Director: Olivier Megaton",
+		"RunningTime": "Running time: 112 minutes",
+		"Cast": "Cast: Liam Neeson, Forest Whitaker, Famke Janssen, Maggie Grace, Dougray Scott, Sam Spruell, Leland Orser", 
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/6/6f/Taken_3_poster.jpg"
+        },
+
+    {
+        "id": 1,
+        "name": "The Wedding Ringer",
+        "rating": 5,
+        "availability": 3,
+        "review": "Socially awkward Doug Harris (Josh Gad) is two weeks from marrying the gal (Kaley Cuoco-Sweeting) of his dreams, but he has a problem: He doesn't have any groomsmen for the occasion. Desperate and running out of time, Doug calls upon Jimmy Callahan (Kevin Hart), owner and operator of Best Man Inc., a company that provides attendants for friendless grooms. As Doug tries to pull off the con, a bromance unexpectedly blossoms between Jimmy and himself. ",
+		"ReleaseDate": "Release date: January 16, 2015 (USA)",
+		"Director": "Director: Jeremy Garelick",
+		"RunningTime": "Running time: 101 minutes",
+		"Cast": "Cast: Kevin Hart, Kaley Cuoco",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/c/c7/TheWeddingRingerPoster.jpg"
+        },
+    {
+        "id": 2,
+        "name": "Night at the Museum",
+        "rating": 5,
+        "availability": 5,
+        "review": "When the exhibits at New York's Natural History Museum start behaving strangely, Larry Daley (Ben Stiller) -- now the director of nighttime operations -- must find out the cause. He learns that the Tablet, which magically brings Teddy Roosevelt (Robin Williams), Jedediah (Owen Wilson) and the other exhibits to life at night, has started to decay. Larry, along with his son and museum friends, must travel to London's British Museum to learn how to prevent the Tablet's magic from disappearing.",
+		"ReleaseDate": "Release date: December 19, 2014 (USA)",
+		"Director": "Director: Shawn Levy",
+		"RunningTime": "Running time: 98 minutes",
+		"Cast":"Cast: Ben Stiller, Robin Williams, Owen Wilson, Steve Coogan, Dan Stevens, Ben Kingsley",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/0/07/Night_at_the_Museum_Secret_of_the_Tomb_poster.jpg"
+        },
+    {
+        "id": 3,
+        "name": "Horrible Bosses 2",
+        "rating": 4,
+        "availability": 3,
+        "review": "Tired of always answering to others, Nick (Jason Bateman), Dale (Charlie Day) and Kurt (Jason Sudeikis) go into business for themselves. After demonstrating the prototype for an invention called the Shower Buddy, the guys attract the attention of Rex Hanson and his father, Bert. Bert invests in the trio's product, then cancels the order and steals their idea. Now heavily in debt and with no legal recourse, Nick, Dale and Kurt decide to kidnap Rex and use the ransom money to pay off their loans.",
+		"ReleaseDate": "Release date: November 26, 2014 (USA)",
+		"Director": "Director: Sean Anders",
+		"RunningTime": "Running time: 108 minutes",
+		"Cast":"Cast: Jason Bateman,Charlie Day,Jason Sudeikis, Jennifer Aniston, Jamie Foxx, Chris Pine, Christoph Waltz",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/6/6b/Horrible_Bosses_2.jpg"
+        },
+    {
+        "id": 4,
+        "name": "Into the Woods",
+        "rating": 5,
+        "availability": 18,
+        "review": "As the result of the curse of a once-beautiful witch (Meryl Streep), a baker (James Corden) and his wife (Emily Blunt) are childless. Three days before the rise of a blue moon, they venture into the forest to find the ingredients that will reverse the spell and restore the witch's beauty: a milk-white cow, hair as yellow as corn, a blood-red cape, and a slipper of gold. During their journey, they meet Cinderella, Little Red Riding Hood, Rapunzel and Jack, each one on a quest to fulfill a wish.",
+		"ReleaseDate": "Release date: December 25, 2014 (USA)",
+		"Director": "Director: Rob Marshall",
+		"RunningTime": "Running time: 124 minutes", 
+		"Cast": "Cast: Meryl Streep, Emily Blunt, James Corden, Anna Kendrick, Chris Pine, Tracey Ullman, Christine Baranski, Johnny Depp",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/3/36/Into_The_Woods_%28film%29.jpg"
+        },
+    {
+        "id": 5,
+        "name": "Big Hero 6",
+        "rating": 4,
+        "availability": 0,
+        "review": " Robotics prodigy Hiro (Ryan Potter) lives in the city of San Fransokyo. Besides his older brother, Tadashi, Hiro's closest companion is Baymax (Scott Adsit), a robot whose sole purpose is to take care of people. When a devastating turn of events throws Hiro into the middle of a dangerous plot, he transforms Baymax and his other friends, Go Go Tamago (Jamie Chung), Wasabi (Damon Wayans Jr.), Honey Lemon (Genesis Rodriguez) and Fred (T.J. Miller) into a band of high-tech heroes.",
+		"ReleaseDate": "Release date: November 7, 2014 (USA)",
+		"Director": "Directors: Don Hall, Chris Williams",
+		"RunningTime": "Running time: 108 minutes",
+		"Cast": "Cast: Ryan Potter, Scott Adsit, Daniel Henney, T. J. Miller, Jamie Chung, Damon Wayans, Jr., Genesis Rodriguez, Maya Rudolph, James Cromwel",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg"
+        },
+    {
+        "id": 6,
+        "name": "The Hobbit",
+        "rating": 3,
+        "availability": 6,
+        "review": " Having reclaimed Erebor and vast treasure from the dragon Smaug, Thorin Oakenshield (Richard Armitage) sacrifices friendship and honor in seeking the Arkenstone, despite Smaug's fiery wrath and desperate attempts by the Hobbit Bilbo (Martin Freeman) to make him see reason. Meanwhile, Sauron sends legions of Orcs in a sneak attack upon the Lonely Mountain. As the fate of Middle Earth hangs in the balance, the races of Men, Elves and Dwarves must decide whether to unite and prevail -- or all die.",
+		"ReleaseDate": "Release date: December 17, 2014 (USA)",
+		"Director": "Director: Peter Jackson",
+		"RunningTime": "Running time: 144 minutes",
+		"Cast": "Cast: Ian McKellen, Martin Freeman, Richard Armitage, Evangeline Lilly, Lee Pace, Luke Evans, Benedict Cumberbatch, Ken Stott, James Nesbitt, Cate Blanchett, Ian Holm, Christopher Lee, Hugo Weaving, Orlando Bloom",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg"
+        },
+    {
+        "id": 7,
+        "name": "Penguins",
+        "rating": 3,
+        "availability": 2,
+        "review": " Plucky penguins Skipper (Tom McGrath), Kowalski (Chris Miller), Rico (Conrad Vernon) and Private (Christopher Knights) -- the most elite spies ever hatched -- join forces with a chic undercover organization known as the North Wind. Led by highly trained, handsome and arrogant Agent Classified (Benedict Cumberbatch), this special inter-species task force must stop a many-tentacled villain, Dr. Octavius Brine (John Malkovich), from destroying the world.",
+		"ReleaseDate": "Release date: November 26, 2014 (USA)",
+		"Director": "Directors: Simon J. Smith, Eric Darnell",
+		"RunningTime": "Running time: 92 minutes",
+		"Cast": "Cast: Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon, Benedict Cumberbatch, Ken Jeong, Annet Mahendru, Peter Stormare, John Malkovich",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/5/5f/Penguins_of_Madagascar_poster.jpg"
+        },
+    {
+        "id": 8,
+        "name": "Exodus: Gods and Kings",
+        "rating": 3,
+        "availability": 6,
+        "review": "Egyptian Princes Moses (Christian Bale) and Ramses (Joel Edgerton) are raised together as brothers. When Ramses becomes pharaoh, Moses is his most-trusted adviser. However Moses soon discovers his Hebrew parentage, and Ramses banishes him to the desert -- often a death sentence. But God has a mission for Moses: Free the Israelites from slavery. Moses returns from exile and demands that Ramses let his people go, but the arrogant ruler is unmoved, leading to a battle of divine wills.",
+		"ReleaseDate": "Release date: December 12, 2014 (USA)",
+		"Director": "Director: Ridley Scott",
+		"RunningTime": "Running time: 154 minutes",
+		"Cast": "Cast: Christian Bale, Joel Edgerton, John Turturro, Aaron Paul, Ben Mendelsohn, Sigourney Weaver, Ben Kingsley ",
+        "thumb": "http://upload.wikimedia.org/wikipedia/en/c/cd/Exodus2014Poster.jpg"
+        }
+    ]

@@ -1,0 +1,24 @@
+{
+  "name": "BookingMovies",
+  "version": "0.0.1",
+  "description": "Book Movie tickets online",
+  "main": "index.js",
+  "keywords": [
+    "BookingMovies"
+  ],
+  "authors": [
+    "Ivana Miteva"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.9",
+    "bootstrap": "~3.3.2"
+  }
+}
